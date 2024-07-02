@@ -1,0 +1,9 @@
+name: Generate Css View
+description: Generates beuteaful view
+author: mrf0rtuna4
+branding:
+  icon: 'cloud-lightning'
+  color: 'green'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
